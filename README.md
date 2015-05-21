@@ -30,3 +30,7 @@ License
 -------
 RedisLive is released under the MIT license:
 + www.opensource.org/licenses/MIT
+
+
+------------
+./RedisLive/src/redis-live.py
